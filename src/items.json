@@ -40,5 +40,19 @@
         "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/1e537db2-a36d-4d8c-bb69-6109251cc465/pegasus-trail-3-mens-trail-running-shoes-QPcRqp.png",
         "price": 130,
         "delPrice": 160
+    },
+    "Nike Air Max 270": {
+        "id": 7,
+        "name": "Nike Air Max 270",
+        "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/d088b1ce-36dd-4307-aa26-7cad6471ae6b/air-max-270-womens-shoes-Pgb94t.png",
+        "price": 170,
+        "delPrice": 200
+    },
+    "Nike Air Max 90": {
+        "id": 8,
+        "name": "Nike Air Max 90",
+        "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/0990e1f2-192c-4e14-9bc1-9158a400b923/air-max-90-big-kids-shoes-d39mm6.png",
+        "price": 110,
+        "delPrice": 130
     }
 }

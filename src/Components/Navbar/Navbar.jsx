@@ -1,5 +1,6 @@
 import React from 'react';
 import "./Navbar.css";
+import logo from '../../Images/logo.svg';
 import { Link } from "react-router-dom";
 
 const Navbar = () => {
@@ -8,7 +9,7 @@ const Navbar = () => {
             <nav className="navbar navbar-expand-sm navbar-light">
                 <div className="container-fluid">
                     <Link to="/" className="navbar-brand">
-                        <img src="https://nike-shoe-store.netlify.app/static/media/nike.54ce3a36.svg" alt="" width="100" height="50" />
+                        <img src={logo} alt="Nike logo" width="100" height="50" />
                     </Link>
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                         <span className="navbar-toggler-icon"></span>

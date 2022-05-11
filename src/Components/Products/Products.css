@@ -1,0 +1,9 @@
+.banner_product {
+  background-image: url("../../Images/banner_product.png");
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  border-radius: 20px;
+  margin: 1rem;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
